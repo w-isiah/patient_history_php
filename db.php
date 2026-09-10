@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db   = '';
+$db   = 'patient_history_db';
 $user = 'root';
 $pass = '';
 
